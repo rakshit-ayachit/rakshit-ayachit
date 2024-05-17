@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rakshit+Ayachit!;" />
 </h1>
 
-<h3 align="center">I'm a junior Data Science and Engineering student at Manipal Institute of Technology, passionate about leveraging machine learning and data science to solve complex problems, while also delving into mobile app development and UI design.</h3>
+<h3 align="center">I'm a Senior Data Science Engineering student at Manipal Institute of Technology, passionate about leveraging machine learning and data science to solve complex problems, while also delving into mobile app development and UI design.</h3>
 
 <br/>
 
