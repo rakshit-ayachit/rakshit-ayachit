@@ -10,10 +10,8 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Big Data Analytics Project**
+ 🔭 I’m currently working on **a prototype submission for SuRaksha Cyber Hackathon by Canara Bank**
  
- 🌱 I’m currently learning **HBase, Hive, Spark**
-
 💬 Ask me about **Machine Learning, Deep Learning, Artificial Intelligence... or anything [here](https://github.com/rakshit-ayachit/rakshit-ayachit/issues)**
 
  </div>
